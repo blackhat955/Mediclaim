@@ -1,0 +1,19 @@
+{
+  "name": "mediclaim",
+  "version": "1.0.0",
+  "description": "\"This is api for mediclaim servis .In this we create different end point of api to deal with coming data from frontend\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "programe not runnig well due to something FATAL ERROR or server crash"
+  },
+  "author": "Durgesh Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jshint": "^2.12.0",
+    "loadsh": "0.0.4",
+    "mongoose": "^5.11.17"
+  }
+}
